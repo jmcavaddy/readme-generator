@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "readme-generator",
+  "description": "CLI application that generates professional README.md files for projects.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmcavaddy/readme-generator.git"
+  },
+  "keywords": [
+    "README.md"
+  ],
+  "author": "John McAvaddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmcavaddy/readme-generator/issues"
+  },
+  "homepage": "https://github.com/jmcavaddy/readme-generator#readme"
+}
